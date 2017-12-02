@@ -18,7 +18,6 @@ ul {
     transform-style: preserve-3d;
     margin:150px auto;
     animation: run 12s linear infinite 0s;
-    background-color: #000000;
 }
 
 ul li {
